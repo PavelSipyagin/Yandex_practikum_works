@@ -8,4 +8,5 @@
 
 | Название | Описание | Используемые инструменты |
 | :-------: |:--------------:| :-----:|
-| 1.[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/PavelSipyagin/Yandex_practikum_works/tree/main/Music of big cities)
+| 1.[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/PavelSipyagin/Yandex_practikum_works/tree/main/Music%20of%20big%20cities)
+
