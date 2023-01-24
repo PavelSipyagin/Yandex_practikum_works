@@ -8,13 +8,8 @@
 На реальных данных Яндекс.Музыки проверить и сравнить поведение пользователей двух столиц.
 
 ## Используемые технологии
-<div align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-<a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-</a>
-</div> 
+
+Python, Pandas
 
 ## Задача
 
